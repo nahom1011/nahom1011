@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Terminal...;Accessing+Nahom1011+Profile...;Cybersecurity+%7C+ML+%7C+Automation;System+Status:+Optimal+✔" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Terminal...;Accessing+Nahom1011+Profile...;Cybersecurity+%7C+ML+%7C+Automation;Digital+Aura:+Vibe+Coder;System+Status:+Optimal+✔" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nahom1011&label=VISITORS&color=00ff00&style=for-the-badge" />
@@ -14,12 +14,13 @@
 ```bash
 $ whoami
 > Nahom — CS Student | Cyber-Sec Researcher | Bot Architect
+> Status: "im vibe coder" ✨
 
 $ location
 > Ethiopia 🌍 | Connected to Global Node
 
 $ objective
-> "Building secure, intelligent, and automated solutions."
+> "Building secure, intelligent, and automated solutions with high vibes."
 ```
 
 ---
@@ -65,34 +66,11 @@ $ objective
 
 ---
 
-### 📊 Tactical Data
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahom1011&show_icons=true&theme=matrix&hide_border=true&bg_color=000000" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahom1011&theme=matrix&hide_border=true&background=000000" alt="Streak Stats" width="45%" />
-</div>
-
-<br />
+### 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahom1011&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Contribution Graph" width="90%" />
 </div>
-
----
-
-### 🏆 Operational Successes
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahom1011&theme=matrix&no-frame=true&column=6" alt="Trophies" />
-</p>
-
----
-
-### 🎧 Neural Feedback (Spotify)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false" alt="Spotify" />
-</p>
 
 ---
 
@@ -106,9 +84,9 @@ $ objective
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/3o7abAhR2vLTx1bYLe/giphy.gif" width="200" /><br />
-  <code>$ echo "Security is a process, not a product."</code>
-</p>
+  <code>$ echo "Terminal Portfolio Loading..."</code>
+</div>
 
 </div>
