@@ -86,10 +86,7 @@ $ objective
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abAhR2vLTx1bYLe/giphy.gif" width="200" /><br />
-  <code>$ echo "Terminal Portfolio Live @ GitHub Pages"</code><br />
-  <a href="https://nahom1011.github.io/nahom1011/">
-    <img src="https://img.shields.io/badge/ENTER_TERMINAL-00ff00?style=for-the-badge&logo=probot&logoColor=black" />
-  </a>
+  <code>$ echo "Security is a process, not a product."</code>
 </div>
 
 </div>
