@@ -13,8 +13,13 @@
 
 ```bash
 $ whoami
-> Nahom — CS Student | Cyber-Sec Researcher | Bot Architect
-> Status: "im vibe coder" ✨
+> Nahom — INFORMATION TECHNOLOGY Student | Cyber-Sec Researcher | Bot Architect
+> Status: "vibe coder" ✨
+
+$ environment
+> OS: Parrot OS / Linux 🐧 | Shell: zsh / high-vibe-sh
+> Uptime: 99.9% Always Solving ⚡
+> Encryption: AES-256 | Privacy Oriented
 
 $ location
 > Ethiopia 🌍 | Connected to Global Node
@@ -77,15 +82,15 @@ $ objective
 ### 📡 Encrypted Channels
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-00ff00?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://t.me/@Stewiell"><img src="https://img.shields.io/badge/Telegram-00ff00?style=for-the-badge&logo=telegram&logoColor=black" /></a>
+  <a href="mailto:nahomteshome708@gmail.com"><img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://github.com/nahom1011"><img src="https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abAhR2vLTx1bYLe/giphy.gif" width="200" /><br />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdyOWhmcXZvM3BqNjMzcnRveXNsZ2VxY2Vkejk5amJ4Zm9sMmRtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif" width="200" /><br />
   <code>$ echo "Security is a process, not a product."</code>
 </div>
 
